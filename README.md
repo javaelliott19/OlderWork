@@ -1,2 +1,2 @@
 # OlderWork
-Mostly CS Projects, older work
+Small CS Projects
